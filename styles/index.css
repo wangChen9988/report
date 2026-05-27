@@ -1,0 +1,18 @@
+/* 隐藏模糊背景元素 */
+[class*="backdrop-blur"] {
+  display: none !important;
+}
+
+/* 隐藏右侧导航栏（页码和导航按钮） */
+.slidev-page-number,
+.slidev-controls,
+.slidev-nav-controls {
+  display: none !important;
+}
+
+/* 隐藏右侧目录导航（Table of Contents） */
+.slidev-toc,
+[class*="toc"],
+[class*="outline"] {
+  display: none !important;
+}

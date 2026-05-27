@@ -1,0 +1,14 @@
+{
+  "name": "report",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.47.5",
+    "@slidev/theme-seriph": "^0.25.0"
+  }
+}
