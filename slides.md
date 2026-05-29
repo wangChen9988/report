@@ -55,7 +55,7 @@ h1 {
         <span class="text-xs text-blue-500 font-semibold">主项目</span>
         <span class="font-bold text-gray-800">front-end-of-zhenfei-2</span>
       </div>
-      <div class="text-xs text-gray-500 mt-1">基础设施、权限管理、任务系统、数据中心看板</div>
+      <div class="text-xs text-gray-500 mt-1">基础设施、权限管理、用户角色、任务系统、数据中心看板</div>
     </div>
     <div class="flex gap-1.5 flex-shrink-0">
       <span class="text-xs px-2.5 py-1 bg-blue-50 text-blue-600 rounded-full font-medium">Vue3</span>
@@ -554,7 +554,7 @@ h1 {
   </div>
 
   <div class="mt-12 text-gray-400 text-sm">
-    2026.04.17 — 2026.05.21 · 试用期产出汇报
+    2026.04.17 — 2026.05.29 · 试用期产出汇报
   </div>
 </div>
 
