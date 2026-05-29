@@ -526,6 +526,18 @@ h1 {
 <div class="mt-8 p-4 bg-gradient-to-r from-blue-50 to-purple-50 rounded-lg text-center">
   <div class="text-lg font-bold text-gray-800">"持续学习，不断突破，成为有价值的技术人"</div>
 </div>
+---
+
+# 近期思考
+
+<div class="flex justify-center gap-8">
+    <div class="p-6 bg-blue-50 rounded-xl max-w-md">
+      <div class="text-lg font-medium text-blue-800">在工作中对AI的使用，AI对岗位和技术造成的冲击，个人如何在AI时代背景下生存和成长</div>
+    </div>
+    <div class="p-6 bg-green-50 rounded-xl max-w-md">
+      <div class="text-lg font-medium text-green-800">对于行业的思考，行业的现状和未来，公司在行业里的发展</div>
+    </div>
+  </div>
 
 ---
 
